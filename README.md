@@ -1,2 +1,8 @@
-    - [DEMO LINK](https://ayupko.github.io/myBike-landing/)
+# Мій проект
+
+Щоб перевірити демо цього проекту, ви можете перейти за [цим посиланням](https://ayupko.github.io/myBike-landing/).
+
+## Опис проекту
+
+(Тут йде опис вашого проекту)
 
