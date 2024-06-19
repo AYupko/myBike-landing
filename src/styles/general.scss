@@ -1,0 +1,23 @@
+.general {
+  background-color: $secondary-color;
+
+  &__content {
+    display: grid;
+    row-gap: 92px;
+    padding-top: 60px;
+    padding-bottom: 120px;
+    background-color: $secondary-color;
+
+    @include onTablet {
+      row-gap: 132px;
+      padding-top: 120px;
+      padding-bottom: 102px;
+    }
+
+    @include onDesktop {
+      row-gap: 164px;
+      padding-top: 120px;
+      padding-bottom: 164px;
+    }
+  }
+}
