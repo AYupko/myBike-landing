@@ -2,7 +2,14 @@
 
  To check Demo of this project you can follow [DEMO](https://ayupko.github.io/myBike-landing/).
 
-## Опис проекту
+## Description
+Responsive landing 'MyBike'
+- Web layout using best practices;
+- Mobile-first approach implementation;
+- Adaptive web desigh;
 
-(Тут йде опис вашого проекту)
+## Technologies used
+- HTML;
+- SCSS;
+- BEM metodology;
 
