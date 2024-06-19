@@ -13,3 +13,6 @@ Responsive landing 'MyBike'
 - SCSS;
 - BEM metodology;
 
+## Contacts
+Anton Yupko - [Telegram](https://t.me/Yupko_Anton) · [LinkedIn](https://www.linkedin.com/in/anton-yupko-6109a3272/) · [GitHub](https://github.com/AYupko)
+
